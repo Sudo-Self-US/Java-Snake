@@ -1,6 +1,7 @@
 #ENJOY
 
-The index.html file should give an idea of how to use this code. However, below you can see how to initialize it into any div within a webpage.
+Drop a Board into your webpage with the init.js below
+
 
     var mySnakeBoard = new SNAKE.Board( {
                                             boardContainer: "game-area",
@@ -10,3 +11,4 @@ The index.html file should give an idea of how to use this code. However, below 
                                         });
                                     
 
+ohandroid@proton.me
